@@ -1,2 +1,1 @@
-# TJHSST-APCS
-DataStructures
+# APCS + DataStructures @ TJ
